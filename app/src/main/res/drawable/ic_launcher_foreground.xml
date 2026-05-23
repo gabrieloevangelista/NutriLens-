@@ -1,0 +1,62 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Viewing Finder Corner Brackets (White) -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M 33,33 L 26,33 L 26,40" />
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M 75,33 L 82,33 L 82,40" />
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M 26,68 L 26,75 L 33,75" />
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M 82,68 L 82,75 L 75,75" />
+
+    <!-- Fresh Apple Body (White, Semi-solid) -->
+    <path
+        android:fillColor="#E8F5E9"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3"
+        android:strokeLineJoin="round"
+        android:pathData="M 54,45 C 50,45 42,48 40,54 C 38,62 46,73 54,73 C 62,73 70,62 68,54 C 66,48 58,45 54,45 Z" />
+
+    <!-- Apple Leaf (White/Pale Green) -->
+    <path
+        android:fillColor="#81C784"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.5"
+        android:pathData="M 54,45 C 54,40 58,36 62,37 C 62,41 58,45 54,45 Z" />
+        
+    <!-- Apple Stem -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M 54,45 L 54,41" />
+
+    <!-- Glowing Active Orange Laser Scanning Beam -->
+    <path
+        android:strokeColor="#FF9800"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:pathData="M 22,54 L 86,54" />
+
+</vector>

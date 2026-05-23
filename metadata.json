@@ -1,0 +1,6 @@
+{
+  "name": "NutriLens",
+  "description": "Tire fotos de sua comida e analise instantaneamente calorias, nutrientes, saúde geral e recomendações com a inteligência do Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
